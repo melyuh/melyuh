@@ -3,8 +3,6 @@
 i'm a computer science student @ sheffield hallam university.
 
 i know C# and bits of Python.
-
-currently working on ghoulang.
 <!--
 **melyuh/melyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
